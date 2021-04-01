@@ -3,4 +3,4 @@
 
 repositorio criado durante uma aula ao vivo
 
-Essa linha eu adicionei para textar a funcionalidade do editor do site.
+Essa linha eu adicionei para testar a funcionalidade do editor do site.
